@@ -25,5 +25,5 @@ You must output background transparent sprite sheet.
 
 ## Experiment 2
 - Make pose sheet from blender with rigify (Basic human)
-- Pose library
+- Pose library with [Human Base Meshes](https://www.blender.org/download/demo-files/#assets) (Blender studio)
 - Send pose to AI
